@@ -1,5 +1,5 @@
-# WEBSHELL WSO2023 / M4DI~UciH4 x AnonymousFox
-Best Shell Backdoor
+# WEBSHELL WSO2023
+### Best Shell Backdoor
 # Feature
 ## PART 1 [HackerTools] :
 [ Reset Password cPanel ]
